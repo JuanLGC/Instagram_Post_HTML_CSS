@@ -1,0 +1,24 @@
+.trespuntos{
+    margin-top: 10px;
+}
+img{
+    width: 100%;
+}
+.cabeceraImagen {
+    max-height: 3vw;
+    max-width: 3vw;
+    margin: 14px 5px 0px 5px;
+}
+.cabecera{
+    display: flex;  
+}
+.TextoFooter{
+    padding: 0% 5% 5% 5%;
+}
+.bookmark{
+    float: right;
+}
+i{
+    margin: 5px;
+}
+
